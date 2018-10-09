@@ -1,0 +1,16 @@
+Törpe neve|Tarna|Nem|Kor|Magassag
+Krond Tard,TüzesKohó,férfi,54,137
+Bal Dorf,Rézfejű,férfi,67,133
+Hardi Beronn,NyirkosTárna,férfi,65,139
+Darrond Anda,JegesSzakáll,férfi,61,135
+Hardd Gráid,TüzesKohó,férfi,60,136
+Azul Sai,Kopaszok,férfi,65,138
+Tardi Grádi,Rézfejű,férfi,59,133
+Gor Morf,Kopaszok,férfi,54,135
+Gorrond Akhac,HarcosNóta,férfi,63,135
+Sarrad Loopa,SötétÜllő,férfi,64,134
+For Azgan,JegesSzakáll,férfi,54,133
+Sóg Tars,SötétÜllő,férfi,62,135
+Terrof Erag,SötétÜllő,nő,62,134
+For Sear,Kopaszok,nő,62,133
+Nallid Surroc,MélyPokol,nő,60,134

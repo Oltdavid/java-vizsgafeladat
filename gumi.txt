@@ -1,0 +1,11 @@
+10
+Michelin;Nyári;205/55/R16
+Continental;4évszakos;225/60/R16
+Goodyear;4évszakos;235/65/R17
+Barum;Nyári;245/40/R17
+Firestone;Téli;195/60/R15
+Trinity;Téli;195/55/R15
+Hankook;Nyári;200/40/R19
+Imperial;Téli;195/55/R15
+Kleber;4évszakos;245/40/R17
+Laufenn;Nyári;305/25/R20
